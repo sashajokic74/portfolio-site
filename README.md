@@ -119,14 +119,14 @@ Currently transitioning into Healthcare Data Analytics, Clinical Operations Inte
 ---
 
 ## GitHub Stats
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/Darrenvandervelde" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/sashajokic74" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashajokic74&theme=default" alt="GitHub Streak" width="40%">
 </div>
-
 ---
 ---
 
