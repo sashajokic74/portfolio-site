@@ -26,7 +26,7 @@ Full Stack Developer | React.js | Node.js | Python | SQL | JavaScript | TypeScri
 
 <p align="left">
 
-I am an experienced NHS Operating Department Practitioner (ODP) and Anaesthetic Practitioner with 16 years of frontline healthcare experience across perioperative care, recovery, patient safety, and clinical operations.
+I am an experienced NHS Operating Department Practitioner (ODP) and Anaesthetic Practitioner with 20 years plus of frontline healthcare experience across perioperative care, recovery, patient safety, and clinical operations.
 
 Throughout my NHS career, I have worked in fast-paced multidisciplinary environments where teamwork, precision, problem-solving, and patient-focused care are essential. This experience has given me a strong understanding of healthcare workflows, operational efficiency, theatre utilisation, recovery management, and the importance of data-driven decision-making within modern healthcare systems.
 
