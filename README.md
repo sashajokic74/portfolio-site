@@ -174,15 +174,11 @@ Currently transitioning into Healthcare Data Analytics, Cloud Technologies, and 
 
 
 ---
-
-<hr width="80%">
-
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-📧 sasajokic@hotmail.co.uk <br>
+📧 <a href="mailto:sasajokic@hotmail.co.uk">sasajokic@hotmail.co.uk</a> <br>
 📱 07827 440672 <br>
-🔗 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sasa-jokic-b002b116a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-">LinkedIn</a> <br>
-💻 <a href="https://github.com/sashajokic74">GitHub</a>
+🔗 <a href="https://www.linkedin.com/in/sasa-jokic-b002b116a">LinkedIn</a> <br>
+💻 <a href="https://github.com/sashjokic74">GitHub</a>
 </p>
