@@ -100,20 +100,17 @@ Currently transitioning into Healthcare Data Analytics, Clinical Operations Inte
 ### Completed Courses & Certifications
 
 - AWS Cloud Practitioner
-- Python Essentials
-- SQL Essentials
-- JavaScript Essentials
-- React Essentials
-- PHP Essentials
-- CSS Essentials
+- Python 
+- SQL 
+- JavaScript 
+- React
+- PHP 
+- CSS 
 - Tailwind CSS
-- HTML & Web Essentials
-- Database Essentials
-- Learn GitHub
-- Learn the Command Line
-- Introduction to Coding Diploma
-- Coding Level 1 Exam
-- Coding Level 2 Exam
+- HTML & Web Development
+- Database 
+- GitHub
+- Command Line
 - SAP MM / S4HANA Training
 - SAP Embedded Analytics
 - Microsoft Azure Fundamentals
