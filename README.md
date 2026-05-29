@@ -15,13 +15,13 @@ Healthcare Data Analytics | Full Stack Development | Cloud & AI Technologies
 <p align="center">
 Full Stack Developer | React.js | Node.js | Python | SQL | JavaScript | TypeScript | Next.js | HTML | CSS | Tailwind CSS | PHP | Power BI | Tableau | SAP S/4HANA Embedded Analytics | SAP MM | Microsoft Azure | AWS Cloud | Git & GitHub | Healthcare Data Analytics | Clinical Operations Intelligence
 </p>
----
+
 
 <div align="center">
 <a href="sashajokic74"><h2>Building data-driven healthcare solutions through analytics, cloud technologies, and modern software development.</h2></a>
 </div>
 
----
+
 <h2 align="center">About Me</h2>
 
 <p align="left">
@@ -37,7 +37,7 @@ Currently transitioning into Healthcare Data Analytics, Clinical Operations Inte
 </p>
 
 
----
+
 
 <h2 align="center">Skills & Tools</h2>
 
@@ -65,7 +65,7 @@ Currently transitioning into Healthcare Data Analytics, Clinical Operations Inte
 
 </p>
 
----
+
 
 ### Cloud, Data & Analytics Technologies
 
@@ -95,7 +95,7 @@ Currently transitioning into Healthcare Data Analytics, Clinical Operations Inte
 
 </p>
 
----
+
 
 ### Completed Courses & Certifications
 
@@ -116,7 +116,7 @@ Currently transitioning into Healthcare Data Analytics, Clinical Operations Inte
 - Microsoft Azure Fundamentals
 
 
----
+
 
 ## GitHub Stats
 
@@ -127,8 +127,7 @@ Currently transitioning into Healthcare Data Analytics, Clinical Operations Inte
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashajokic74&theme=default" alt="GitHub Streak" width="40%">
 </div>
----
----
+
 
 <h2 align="center">Currently Working On</h2>
 
@@ -152,7 +151,7 @@ Currently transitioning into Healthcare Data Analytics, Cloud Technologies, and 
 - Clinical Workflow Optimisation
 - Healthcare Data Visualisation
 
----
+
 
 <h2 align="center">Healthcare & Technical Knowledge</h2>
 
@@ -170,7 +169,7 @@ Currently transitioning into Healthcare Data Analytics, Cloud Technologies, and 
 - Enterprise Systems & SAP Technologies
 
 
----
+
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
